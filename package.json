@@ -1,0 +1,33 @@
+{
+  "name": "@cinnamon05370/password-utilities",
+  "version": "1.1.0",
+  "description": "Password utility helpers for generating and validating strong passwords.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "password",
+    "security",
+    "utility"
+  ],
+  "author": "Benja",
+  "license": "MIT",
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE.md",
+    "CONTRIBUTING.md",
+    "PULL_REQUEST_TEMPLATE.md",
+    "ISSUE_TEMPLATE.md",
+    "FEATURE_REQUEST_TEMPLATE.md",
+    "SECURITY.md"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "pdfkit": "^0.18.0"
+  }
+}
